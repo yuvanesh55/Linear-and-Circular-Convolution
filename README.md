@@ -104,3 +104,4 @@ disp(y)
 
 
 ## RESULT: 
+Linear and Circular Convolution are successfully executed in scilab
